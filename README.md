@@ -1,6 +1,7 @@
 # python-for-data-science
 
-******************************************************************************************************************************************Este curso toca temas que abarcan el mundo del Data Science utilizando el lenguaje de programación python. El curso esta distribuido en lecciones las cuales son las siguientes:
+******************************************************************************************************************************************
+Este curso toca temas que abarcan el mundo del Data Science utilizando el lenguaje de programación python. El curso esta distribuido en lecciones las cuales son las siguientes:
 
 - Data Cleaning: Esta sección toca temas como la carga de datos a python, dimensiones de los datos es decir el resumen de los datos, gráficos y visualización de los datos.
 - Data Cleaning: Esta sección toca temas como data wrangling, funciones de distribución de probabilidades, data processing.
