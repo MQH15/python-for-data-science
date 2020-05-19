@@ -8,4 +8,5 @@
 - Regresion Lineal: Esta sección toca temas teoricos acerca de la regresion lineal y su estimacion esto en la carpeta "fotos_regresion_lineal", asimismo estimacion de regresion lineal con la libreria statsmodel y scikit-learn.
 
 
-******************************************************************************************************************************************Espero que la información del curso les sea de mucha utilidad.
+******************************************************************************************************************************************
+Espero que la información del curso les sea de mucha utilidad.
