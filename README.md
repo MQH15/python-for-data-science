@@ -13,6 +13,7 @@ Este curso toca temas que abarcan el mundo del Data Science utilizando el lengua
 - SVM: Esta sección toca temas teóricos acerca de la support vector machine y su estimación, lineal support vector classifier, maximizacion del margen de separación, ajuste de parametros, fronteras no lineales. Asimismo se hace la estimacion de ejemplos como reconocimiento facial, clasificación de la data "iris.csv", y por ultimo SVM para regression.
 - KNN: Esta sección toca temas teóricos acerca de la clasificacion mediante knn vecinos mas cercanos. Asimismo se construye desde cero como trabaja este clsificador mosrando como ejemplo una base "cancer.csv"
 - Sistemas de Recomendación: Esta sección toca temas teóricos acerca de los algoritmos de recomendación utilizando la base "movie.csv" basicamente se toca los filtros colaborativos basados en contenido y basados en datos de usuario, ambos filtrados utilizando la distancia coseno y vecinos mas cercanos.
+- Analisis de Componentes Principales: Esta sección toca temas teóricos acerca de como utilizar esta técnica para reducir dimensionalidad, se construye paso a paso como trabaja este algoritmo desde cero asimismo tambien usando sklearn. Por ultimo aprenderas a usar la libreria plotly que nos ayuda a construir diferentes tipos de gráficos y sus diferentes caracteristicas.
 
 ******************************************************************************************************************************************
 Espero que la información del curso les sea de mucha utilidad.
