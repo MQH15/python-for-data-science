@@ -14,6 +14,8 @@ Este curso toca temas que abarcan el mundo del Data Science utilizando el lengua
 - KNN: Esta sección toca temas teóricos acerca de la clasificacion mediante knn vecinos mas cercanos. Asimismo se construye desde cero como trabaja este clsificador mosrando como ejemplo una base "cancer.csv"
 - Sistemas de Recomendación: Esta sección toca temas teóricos acerca de los algoritmos de recomendación utilizando la base "movie.csv" basicamente se toca los filtros colaborativos basados en contenido y basados en datos de usuario, ambos filtrados utilizando la distancia coseno y vecinos mas cercanos.
 - Analisis de Componentes Principales: Esta sección toca temas teóricos acerca de como utilizar esta técnica para reducir dimensionalidad, se construye paso a paso como trabaja este algoritmo desde cero asimismo tambien usando sklearn. Por ultimo aprenderas a usar la libreria plotly que nos ayuda a construir diferentes tipos de gráficos y sus diferentes caracteristicas.
+- Redes Neuronales: Esta sección toca temas teóricos acerca de como entrenar una red neuronal con la libreria tensorflow aplicando un ejemplo de clasificación de señales de transito y su evaluación, y un ejemplo de "mnist" y su evaluación.
+- Combinando Python y R: Esta sección toca como combinar codigo python y r en un mismo entorno a travez de la libreria "rpy2" asimismo tambien utilizamos la funcion "RMAGIC".
 
 ******************************************************************************************************************************************
 Espero que la información del curso les sea de mucha utilidad.
